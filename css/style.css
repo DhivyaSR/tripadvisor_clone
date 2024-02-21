@@ -431,6 +431,7 @@ width: 75%;
     display:flex;
     margin-top:2vw;
     gap:3px;
+    align-items: center;
 }
 
 .footer_container1,.footer_container2,.footer_container3,.footer_container4{
